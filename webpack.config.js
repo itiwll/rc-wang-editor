@@ -50,7 +50,7 @@ module.exports = {
   },
   output: {
     path: targetDirectory,
-    filename: '[name]-[hash].js',
+    filename: '[name].js',
     hashDigestLength: 8,
   },
   devServer: {
