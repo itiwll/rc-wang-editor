@@ -1,6 +1,6 @@
 {
   "name": "rc-wang-editor",
-  "version": "0.9.3",
+  "version": "0.9.5",
   "description": "基于 wangEditor 的 react 富文本编辑器。",
   "main": "lib/index.js",
   "module": "esm/index.js",
