@@ -88,9 +88,9 @@ online example: https://x9xo5n0o7w.codesandbox.io/
 </table>
 
 ## TODO
-- 增加获取 wangEditor 实例的方法
+- 增加获取 wangEditor 实例的方法
 - ~~写文档~~
-- 处理 customConfig 属性的更新
+- 处理 customConfig 属性的更新
 
 ## License
 rc-wang-editor is released under the MIT license.
