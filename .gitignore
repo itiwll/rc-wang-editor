@@ -15,4 +15,4 @@ nyc_output
 .idea
 lib
 esm
-dist
+dist/
