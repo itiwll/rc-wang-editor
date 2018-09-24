@@ -1,7 +1,7 @@
 # rc-wang-editor
 ---
 
-[![wangEditor]][wangEditor] for react
+[wangEditor] for react
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
